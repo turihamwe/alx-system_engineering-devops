@@ -6,4 +6,5 @@ Script 5 list current directory contents with user and group IDs displayed numer
 Script 7 move file betty from /tmp to /tmp/my_first_directory.
 Script 8 delete file betty from /tmp/my_first_directory.
 Script 9 delete directory /tmp/my_first_directory.
-Script 10 change working directory to previous one.
+Script 10 changes the working directory to the previous one.
+Script 11 lists all files pwd, parent & /boot directories.
