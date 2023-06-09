@@ -1,1 +1,1 @@
-This is the shell basics repository.
+This is the system engineering repository.
