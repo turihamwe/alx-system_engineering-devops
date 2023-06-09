@@ -5,3 +5,4 @@ Script 4 list current directory contents with hidden files in long format.
 Script 5 list current directory contents with user and group IDs displayed numerically and hidden files in long format.
 Script 7 move file betty from /tmp to /tmp/my_first_directory.
 Script 8 delete file betty from /tmp/my_first_directory.
+Script 9 delete directory /tmp/my_first_directory.
