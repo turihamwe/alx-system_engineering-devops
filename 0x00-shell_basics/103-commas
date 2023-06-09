@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -ma -d */ --sort=WORD [!.]
