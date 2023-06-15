@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -not grep -i "bin" /etc/passwd
+grep -i -not "bin" /etc/passwd
